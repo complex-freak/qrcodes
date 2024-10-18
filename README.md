@@ -7,6 +7,7 @@ This repository hosts a simple web-based QR-code generator for URLs, sending ema
 ## Features
 
 Generate QR codes for:
+
 - Website URLs
 - Sending emails
 - Sending text messages
@@ -22,4 +23,5 @@ Generate QR codes for:
 - Click the `Generate QR` button.
 
 ## License
+
 - The code in this repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
